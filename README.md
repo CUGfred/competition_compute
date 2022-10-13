@@ -1,2 +1,2 @@
 # competition_compute
-hom many situations TES will meet.
+how many situations TES will meet.
